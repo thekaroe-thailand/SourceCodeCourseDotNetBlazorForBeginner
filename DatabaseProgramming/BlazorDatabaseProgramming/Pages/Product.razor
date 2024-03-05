@@ -1,0 +1,67 @@
+﻿@page "/product"
+@inject SweetAlertService Swal
+
+<h3>Product</h3>
+
+<button @onclick="OpenForm" class="btn btn-primary">
+    <i class="fa fa-plus me-2"></i>
+    New Record
+</button>
+
+<table class="mt-3 table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>id</th>
+            <th>barcode</th>
+            <th>name</th>
+            <th>price</th>
+            <th width="200px"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (ProductModel item in products)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Barcode</td>
+                <td>@item.Name</td>
+                <td>@item.Price</td>
+                <td class="text-center">
+                    <button @onclick="e => Edit(item)" class="btn btn-primary">
+                        <i class="fa fa-pencil me-1"></i>
+                        Edit
+                    </button>
+                    <button @onclick="e => Remove(item)" class="btn btn-danger">
+                        <i class="fa fa-times"></i>
+                        Delete
+                    </button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<Modal @ref="modal" Title="ข้อมูลสินค้า">
+    <BodyTemplate>
+        <div>
+            <div>barcode</div>
+            <input @bind="productModel.Barcode" class="form-control" />
+        </div>
+        <div class="mt-3">
+            <div>name</div>
+            <input @bind="productModel.Name" class="form-control" />
+        </div>
+        <div class="mt-3">
+            <div>price</div>
+            <input @bind="productModel.Price" class="form-control" />
+        </div>
+    </BodyTemplate>
+    <FooterTemplate>
+        <button @onclick="Save" class="btn btn-primary">
+            save
+        </button>
+        <button @onclick="CloseForm" class="btn btn-secondary">
+            cancel
+        </button>
+    </FooterTemplate>
+</Modal>

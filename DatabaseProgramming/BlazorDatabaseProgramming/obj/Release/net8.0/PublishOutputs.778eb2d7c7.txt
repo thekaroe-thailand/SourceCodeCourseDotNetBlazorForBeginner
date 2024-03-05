@@ -1,0 +1,12 @@
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/bin/Release/net8.0/publish/BlazorDatabaseProgramming
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/bin/Release/net8.0/publish/appsettings.Development.json
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/bin/Release/net8.0/publish/appsettings.json
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/bin/Release/net8.0/publish/BlazorDatabaseProgramming.dll
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/bin/Release/net8.0/publish/BlazorDatabaseProgramming.deps.json
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/bin/Release/net8.0/publish/BlazorDatabaseProgramming.runtimeconfig.json
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/bin/Release/net8.0/publish/BlazorDatabaseProgramming.pdb
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/bin/Release/net8.0/publish/BlazorBootstrap.dll
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/bin/Release/net8.0/publish/CurrieTechnologies.Blazor.SweetAlert2.dll
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/bin/Release/net8.0/publish/CurrieTechnologies.Razor.SweetAlert2.dll
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/bin/Release/net8.0/publish/Microsoft.AspNetCore.Components.Browser.dll
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/bin/Release/net8.0/publish/Npgsql.dll

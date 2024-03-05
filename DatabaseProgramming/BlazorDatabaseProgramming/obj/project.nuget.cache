@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "FucaKQyk6bXqTy3uT1nRi/2zO0Yc7EKPkqMe3gY+uHAYdUmzG622DYe7J8S+6LDMDV9quLMJfYKlYHIgTq3piw==",
+  "success": true,
+  "projectFilePath": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/BlazorDatabaseProgramming.csproj",
+  "expectedPackageFiles": [
+    "/Users/tavonseesenpila/.nuget/packages/blazor.bootstrap/1.10.5/blazor.bootstrap.1.10.5.nupkg.sha512",
+    "/Users/tavonseesenpila/.nuget/packages/currietechnologies.blazor.sweetalert2/0.1.4-preview/currietechnologies.blazor.sweetalert2.0.1.4-preview.nupkg.sha512",
+    "/Users/tavonseesenpila/.nuget/packages/currietechnologies.razor.sweetalert2/5.5.0/currietechnologies.razor.sweetalert2.5.5.0.nupkg.sha512",
+    "/Users/tavonseesenpila/.nuget/packages/microsoft.aspnetcore.authorization/7.0.0/microsoft.aspnetcore.authorization.7.0.0.nupkg.sha512",
+    "/Users/tavonseesenpila/.nuget/packages/microsoft.aspnetcore.components/7.0.0/microsoft.aspnetcore.components.7.0.0.nupkg.sha512",
+    "/Users/tavonseesenpila/.nuget/packages/microsoft.aspnetcore.components.analyzers/7.0.0/microsoft.aspnetcore.components.analyzers.7.0.0.nupkg.sha512",
+    "/Users/tavonseesenpila/.nuget/packages/microsoft.aspnetcore.components.browser/3.0.0-preview6.19307.2/microsoft.aspnetcore.components.browser.3.0.0-preview6.19307.2.nupkg.sha512",
+    "/Users/tavonseesenpila/.nuget/packages/microsoft.aspnetcore.components.forms/7.0.0/microsoft.aspnetcore.components.forms.7.0.0.nupkg.sha512",
+    "/Users/tavonseesenpila/.nuget/packages/microsoft.aspnetcore.components.web/7.0.0/microsoft.aspnetcore.components.web.7.0.0.nupkg.sha512",
+    "/Users/tavonseesenpila/.nuget/packages/microsoft.aspnetcore.metadata/7.0.0/microsoft.aspnetcore.metadata.7.0.0.nupkg.sha512",
+    "/Users/tavonseesenpila/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/tavonseesenpila/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/tavonseesenpila/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/tavonseesenpila/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/tavonseesenpila/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/tavonseesenpila/.nuget/packages/microsoft.jsinterop/7.0.0/microsoft.jsinterop.7.0.0.nupkg.sha512",
+    "/Users/tavonseesenpila/.nuget/packages/npgsql/8.0.1/npgsql.8.0.1.nupkg.sha512",
+    "/Users/tavonseesenpila/.nuget/packages/system.io.pipelines/7.0.0/system.io.pipelines.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

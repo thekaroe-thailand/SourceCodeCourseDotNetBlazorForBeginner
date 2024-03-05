@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/obj/Debug/net7.0/scopedcss/projectbundle/BlazorDatabaseProgramming.bundle.scp.css",
+      "PackagePath": "staticwebassets/BlazorDatabaseProgramming.bundle.scp.css"
+    },
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/DatabaseProgramming/BlazorDatabaseProgramming/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.BlazorDatabaseProgramming.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.BlazorDatabaseProgramming.props",
+      "PackagePath": "build\\BlazorDatabaseProgramming.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BlazorDatabaseProgramming.props",
+      "PackagePath": "buildMultiTargeting\\BlazorDatabaseProgramming.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BlazorDatabaseProgramming.props",
+      "PackagePath": "buildTransitive\\BlazorDatabaseProgramming.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

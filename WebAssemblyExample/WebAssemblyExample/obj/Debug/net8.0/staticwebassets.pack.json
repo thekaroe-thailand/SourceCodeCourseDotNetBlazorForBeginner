@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/WebAssemblyExample/WebAssemblyExample/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/WebAssemblyExample/WebAssemblyExample/obj/Debug/net8.0/compressed/g2q4dj37y8.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/WebAssemblyExample/WebAssemblyExample/obj/Debug/net8.0/scopedcss/bundle/WebAssemblyExample.styles.css",
+      "PackagePath": "staticwebassets/WebAssemblyExample.styles.css"
+    },
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/WebAssemblyExample/WebAssemblyExample/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/WebAssemblyExample/WebAssemblyExample/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/WebAssemblyExample/WebAssemblyExample/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/WebAssemblyExample/WebAssemblyExample/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/WebAssemblyExample/WebAssemblyExample/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/WebAssemblyExample/WebAssemblyExample/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/WebAssemblyExample/WebAssemblyExample/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.WebAssemblyExample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.WebAssemblyExample.props",
+      "PackagePath": "build\\WebAssemblyExample.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebAssemblyExample.props",
+      "PackagePath": "buildMultiTargeting\\WebAssemblyExample.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebAssemblyExample.props",
+      "PackagePath": "buildTransitive\\WebAssemblyExample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

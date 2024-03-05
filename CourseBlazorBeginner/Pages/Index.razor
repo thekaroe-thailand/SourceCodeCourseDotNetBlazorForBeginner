@@ -1,0 +1,61 @@
+﻿@page "/"
+
+<h1>@message</h1>
+<div>Name</div>
+<input @bind="x" class="form-control" />
+<input @bind="y" class="form-control" />
+
+<button @onclick="AddNumber" class="btn btn-primary">
+    Add Number
+</button>
+
+<div>Add Number = @result</div>
+
+<button @onclick="showValue" class="btn btn-primary">
+    Click for Show Value of Variable
+</button>
+
+<button @onclick="CounterUp" class="btn btn-primary">
+    Counter Up
+</button>
+<bttuon @onclick="CounterDown" class="btn btn-primary">
+    Counter Down
+</bttuon>
+
+<h3>Counter = @counter</h3>
+
+<select @bind="yourSelected">
+    @foreach (string item in list)
+    {
+        <option>@item</option>
+    }
+</select>
+<div>Your Selected : @yourSelected</div>
+
+@code {
+    List<string> list = new List<string>() { "Java", "PHP", "C#", "Python" };
+    string? yourSelected;
+    string message = "Kob Tavon";
+    string? name;
+    int x;
+    int y;
+    int result;
+    int counter = 0;
+    void CounterUp()
+    {
+        counter++;
+    }
+    void CounterDown()
+    {
+        counter--;
+    }
+    void AddNumber()
+    {
+        result = x + y;
+    }
+    void showValue()
+    {
+        Console.WriteLine("message = " + message);
+    }
+
+}

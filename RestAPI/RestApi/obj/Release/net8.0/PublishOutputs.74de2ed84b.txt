@@ -1,0 +1,13 @@
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/RestAPI/RestApi/bin/Release/net8.0/publish/RestApi
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/RestAPI/RestApi/bin/Release/net8.0/publish/appsettings.Development.json
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/RestAPI/RestApi/bin/Release/net8.0/publish/appsettings.json
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/RestAPI/RestApi/bin/Release/net8.0/publish/RestApi.dll
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/RestAPI/RestApi/bin/Release/net8.0/publish/RestApi.deps.json
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/RestAPI/RestApi/bin/Release/net8.0/publish/RestApi.runtimeconfig.json
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/RestAPI/RestApi/bin/Release/net8.0/publish/RestApi.pdb
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/RestAPI/RestApi/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/RestAPI/RestApi/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/RestAPI/RestApi/bin/Release/net8.0/publish/Npgsql.dll
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/RestAPI/RestApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/RestAPI/RestApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Volumes/Extreme Pro/Videos/CourseOnline/C#.NET Blazor for Beginner/sourceCode/RestAPI/RestApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

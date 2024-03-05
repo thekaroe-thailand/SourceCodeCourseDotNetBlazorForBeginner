@@ -1,0 +1,30 @@
+﻿@namespace Components
+
+<button class="btn btn-primary" @onclick="InternalEvent">
+    @if (ChildContent == null)
+    {
+        @Text
+    }
+    else
+    {
+        @ChildContent
+    }
+</button>
+
+@code {
+    public bool showPanel = false;
+
+    [Parameter]
+    public string? Text { get; set; }
+
+    [Parameter]
+    public RenderFragment? ChildContent { get; set; }
+
+    [Parameter]
+    public EventCallback MyClick { get; set; }
+
+    void InternalEvent()
+    {
+        Console.WriteLine("Internal Event");
+    }
+}

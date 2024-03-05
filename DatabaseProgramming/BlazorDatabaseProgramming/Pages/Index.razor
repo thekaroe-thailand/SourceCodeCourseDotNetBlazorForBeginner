@@ -1,0 +1,27 @@
+﻿@page "/"
+
+<PageTitle>Index</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<input type="date" @bind="myDate" />
+<input type="time" @bind="myTime" />
+
+<button @onclick="ShowValue" class="btn btn-primary">
+    Show Date and Time
+</button>
+
+<SurveyPrompt Title="How is Blazor working for you?" />
+
+@code {
+    DateTime myDate = DateTime.Now;
+    DateTime myTime = DateTime.Now;
+
+    void ShowValue()
+    {
+        Console.WriteLine(myDate.ToString("dd/MM/yyyy"));
+        Console.WriteLine(myTime.ToString("HH:mm"));
+    }
+}

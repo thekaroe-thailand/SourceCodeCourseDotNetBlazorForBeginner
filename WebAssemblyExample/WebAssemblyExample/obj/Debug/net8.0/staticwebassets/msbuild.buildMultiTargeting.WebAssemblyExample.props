@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/WebAssemblyExample.props" />
+</Project>
